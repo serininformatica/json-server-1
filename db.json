@@ -1,0 +1,44 @@
+{
+  "palyers": [
+    {
+      "id": 1,
+      "name": "Cam Newton",
+      "team_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Tom Brady",
+      "team_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Russel Wilson",
+      "team_id": 3
+    },
+    {
+      "id": 4,
+      "name": "SStephan Gilmore",
+      "team_id": 1
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Patriots",
+      "city": "Foxoboro"
+    },
+    {
+      "id": 2,
+      "name": "Buccaniers",
+      "city": "Tampa Bay"
+    },
+    {
+      "id": 3,
+      "name": "Seahawks",
+      "city": "Seattle"
+    }
+  ],
+  "profile": {
+    "name": "fabbriciani"
+  }
+}
